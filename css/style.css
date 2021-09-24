@@ -84,6 +84,13 @@ article:last-of-type {
   width: 32px;
   height: 32px;
 }
+article:first-of-type {
+  background-image: url("images/bg-pattern-quotation.svg");
+  background-size: unset;
+  background-repeat: no-repeat;
+  background-position: 78% 0%;
+}
+
 article:first-of-type img {
   border: 2px solid rgb(159, 125, 212);
 }
